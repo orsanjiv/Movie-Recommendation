@@ -1,0 +1,11 @@
+{
+    "name":"Movie Recommendation",
+    "version":"1.0.0",
+    "description": "Unlock a world of cinematic wonder! Get personalized movie recommendations at your fingertips. Your movie night just got a whole lot better.",
+    "manifest_version":3,
+    "author":"Sanjiv Gupta",
+    "action":{
+        "default_popup":"index.html",
+        "default_title":"Movie Recommendation"
+    }
+}
